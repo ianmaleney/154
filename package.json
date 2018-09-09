@@ -1,7 +1,7 @@
 {
-  "name": "fallowtemplate",
+  "name": "154",
   "version": "1.0.0",
-  "description": "A boilerplate starter for Fallow Media projects.",
+  "description": "Making beautiful websites, like this one.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -13,6 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "node-sass": "^4.9.2",
+    "parcel": "^1.9.7",
     "posthtml-include": "^1.2.0"
   },
   "devDependencies": {
