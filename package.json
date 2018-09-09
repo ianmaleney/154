@@ -1,0 +1,21 @@
+{
+  "name": "fallowtemplate",
+  "version": "1.0.0",
+  "description": "A boilerplate starter for Fallow Media projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel build/index.html",
+    "build": "parcel build build/index.html"
+  },
+  "keywords": [],
+  "author": "Ian Maleney",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.9.2",
+    "posthtml-include": "^1.2.0"
+  },
+  "devDependencies": {
+    "cssnano": "^4.0.5"
+  }
+}
