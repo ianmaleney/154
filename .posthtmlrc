@@ -3,5 +3,7 @@
     "posthtml-include": {
       "root": "./build"
     }
-  }
+  },
+  "recognizeSelfClosing": true,
+  "lowerCaseAttributeNames": false
 }
